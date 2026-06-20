@@ -1,4 +1,4 @@
-const Lead = require("../models/Lead");
+const Lead = require("../models/lead");
 
 exports.createLead = async (req, res) => {
   try {
